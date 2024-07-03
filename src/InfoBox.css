@@ -1,0 +1,17 @@
+.info-box{
+    text-align: center;
+}
+.cardContainer{
+    display: flex;
+    justify-content: center;
+
+    
+}
+
+.cardContainer :hover{
+    cursor: pointer;
+
+    box-shadow: 5px 5px 10px pink;
+
+
+}
